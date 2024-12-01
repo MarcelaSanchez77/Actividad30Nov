@@ -415,6 +415,7 @@ a {
   position: relative;
   margin-top: 10px;
   left: 0;
+  /*  Las siguientes no la hemoss visto en clase, pero a conciencia las averigue y la aprendí y aplique para lograr lo que se pedia en la página*/
   transform: translateY(20px);
   opacity: 0;
   transition: all 0.3s ease-in-out;
